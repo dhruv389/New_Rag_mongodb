@@ -7,3 +7,4 @@ langchain-core
 langchain-google-genai
 faiss-cpu
 python-dotenv
+gunicorn  # Add gunicorn to your dependencies
